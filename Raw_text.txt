@@ -1,0 +1,114 @@
+Welcome back; First Bank Customer	0.76
+FIRST BANK	1.00
+Last login 02/26/2024 at 10.*02 AM	0.41
+0	0.31
+Home	1.00
+Online Activity	0.89
+Payments and Transfers	0.99
+Single Transactions	1.00
+Recurring Transactions	0.99
+Deposited Checks	1.00
+Commercial	1.00
+Credit Cards and Rewards	0.82
+Search Transactions	0.98
+Statements and Notices	0.78
+Created date	0.78
+Status	1.00
+Approvals	0.98
+Transaction Type	0.89
+Account	0.83
+Amount	0.74
+Services	0.73
+12/21/2023	0.67
+ACH Batch	0.88
+BUSINESS ADVANTAGE	1.00
+Authorized	0.81
+NIA	0.97
+s896.40	0.68
+7.50 AM	0.94
+Tracking ID: 9428125	0.83
+XXXXXX1202	1.00
+Activity Center	0.92
+8/8/2023	1.00
+Domestic Wire	0.68
+Operating *1205	0.82
+Change My Acct Address	0.68
+12.02 PM	0.68
+Authorized	0.94
+of	1.00
+Tracking ID: 8767485	0.80
+XXXXXX12OS	0.47
+52,543.05	0.34
+Check Reorder	0.99
+8/8/2023	0.99
+Authorized	1.00
+ACH Collection	1.00
+Operating *1205	0.81
+Toggle Details	1.00
+12.00 PM	0.97
+Tracking ID: 8767475	0.96
+XXXXXX1205	0.82
+Place A Stop Payment	1.00
+8/8/2023	0.94
+Payroll	1.00
+Payroll	1.00
+Cancel series	0.99
+Authorized	1.00
+of	1.00
+11;53 AM	0.70
+Tracking ID: 8767426	0.95
+XXXXXX1207	0.98
+Account Preferences	0.76
+Copy	1.00
+8/8/2023	0.66
+ACH Batch	0.70
+EVERYWHERE	0.85
+Authorized	1.00
+2 of 2	0.81
+11.41 AM	0.94
+Tracking ID: 8767353	0.75
+CHECKING	1.00
+Security Preferences	1.00
+View transactions in	1.00
+5/16/2023	0.68
+ACH Batch	1.00
+EVERYWHERE	0.72
+series	0.95
+Authorized	1.00
+NIA	0.88
+Alerts	0.73
+5.43 PM	0.69
+Tracking ID: 8367943	0.82
+CHECKING	1.00
+Print Details	1.00
+12/22/2022	0.98
+ACH Collection	0.99
+Operating *1205	0.74
+Text Enrollment	0.76
+Authorized	1.00
+NIA	0.91
+Ru.u|	0.28
+4.50 PM	0.99
+Tracking ID: 7720895	0.97
+XXXXXX12OS	0.63
+Accessibility	0.99
+12/20/2022	0.89
+Funds Transfer	0.62
+EVERYWHERE	1.00
+Authorized	1.00
+NIA	0.84
+5250.00	0.64
+12.25 PM	1.00
+Tracking ID: 7709121	0.92
+CHECKING	0.94
+My Wealth Accounts	0.97
+12/20/2022	0.99
+Domestic Wire	0.84
+Operating *1205	1.00
+Authorized	1.00
+NIA	0.79
+$5,000.00	0.82
+12.15 PM	0.77
+Tracking ID: 7709073	0.95
+XXXXXX1205	0.73
+Moccaoac	0.34
