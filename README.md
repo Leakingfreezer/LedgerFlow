@@ -1,15 +1,15 @@
-**Table of contents:**
+## Table of contents:
   - User Design Report
   - Skills Learned/Reflection
   - Architecture logic
 
-**Installation Instructions/how to use:**
+## Installation Instructions/how to use:
 
-**Problem this solves:** 
+## Problem this solves:
 
-**Technologies used:**
+## Technologies used:
 
-**Acknowledgements:**
+## Acknowledgements:
 
 Future User interface: 
 Excel interface
